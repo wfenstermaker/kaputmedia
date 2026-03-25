@@ -1,0 +1,36 @@
+KAPUT — WEBSITE COPY
+====================
+Edit the sections below, then paste the updated text into index.html.
+Each section is marked with the corresponding HTML element or class name.
+
+
+[h1 — Main headline]
+Kaput
+
+
+[.tagline — Hero descriptor]
+Criticism for culture coming apart
+
+[.byline — Founder credit]
+Founded by Will Fenstermaker
+
+
+[.body-copy — Body paragraphs]
+Wrap each paragraph in <p>…</p> when pasting into index.html.
+You can also write in plain text here, one paragraph per block,
+then convert to <p> tags when you're ready.
+
+---
+
+Kaput is an arts and media consultancy in Los Angeles, offering editorial consulting and content services to artists, galleries, museums, cultural organizations and luxury brands. Services include artist statements, press materials, institutional copy and editorial strategy. 
+
+Kaput is founded and run by Will Fenstermaker, a writer and cultural critic whose essays on contemporary art, visual culture and media theory are published by _Artforum_, _BOMB_, _Dissent_, _Family Style_, _The Los Angeles Review of Books_, _The Los Angeles Times_, _The Nation_, _The Paris Review Daily_ and _T Magazine_, among other publications. Fenstermaker’s editorial experience includes positions at Sotheby’s, The Metropolitan Museum of Art, _Frieze_ and _The Brooklyn Rail_, and he is a recipient of The Andy Warhol Foundation Arts Writers Grant.
+
+
+---
+
+LINK NOTES
+----------
+Will Fenstermaker link: https://www.willfenstermaker.com
+UTM tag already applied in index.html — do not edit the href directly here.
+To change the link destination, update the <a href="…"> in the .byline section of index.html.
