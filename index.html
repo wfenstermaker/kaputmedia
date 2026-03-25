@@ -24,23 +24,38 @@
   <link rel="canonical" href="https://kaput.media">
   <link rel="icon" type="image/png" href="Images/Casa-Malaparte-360-beige.png">
 
+  <!-- Preload hero image so browser prioritises it as LCP element -->
+  <link rel="preload" as="image"
+    href="Images/Casa-Malaparte-800-transparent.png"
+    imagesrcset="
+      Images/Casa-Malaparte-360-transparent.png   360w,
+      Images/Casa-Malaparte-800-transparent.png   800w,
+      Images/Casa-Malaparte-1600-transparent.png 1600w"
+    imagesizes="(max-width: 640px) 50vw, 55vw">
+
   <!--
     FONTS
     Approximations of Diatype Heavy and Diatype Mono Regular via Google Fonts.
     - Heading: Barlow 900 (wide, heavy grotesque — Constructivist feel)
     - Body / byline: IBM Plex Mono 400 (clean editorial monospace)
     Replace with @font-face rules if you license Diatype locally.
+    Loaded asynchronously to prevent render-blocking.
   -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@800;900&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=Barlow:wght@800;900&family=IBM+Plex+Mono&display=swap"
+    onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@800;900&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+  </noscript>
 
   <style>
     /* ─── COLOR TOKENS ───────────────────────────────────────────────────────── */
     :root {
       --color-bg:     #F4F0E8; /* eggshell / warm off-white */
       --color-text:   #000000BF; /* rgba(0,0,0,0.75) in 8-digit hex */
-      --color-link:   #E8692A;   /* TK — placeholder orange */
+      --color-link:   #B34A12;   /* darkened orange — passes WCAG AA 4.5:1 contrast */
       --color-border: #00000026; /* rgba(0,0,0,0.15) — thin subtle rule */
     }
 
@@ -176,6 +191,7 @@
 </head>
 <body>
 
+  <main>
   <div class="page">
 
   <!-- HEADLINE — edit in content.txt → [h1] -->
@@ -200,6 +216,7 @@
         alt="Contour line drawing of Casa Malaparte, the modernist villa on the cliffs of Capri"
         width="800"
         height="600"
+        fetchpriority="high"
       >
     </div>
 
@@ -226,6 +243,7 @@
   </section>
 
   </div><!-- /.page -->
+  </main>
 
 </body>
 </html>
