@@ -22,6 +22,7 @@
   <meta name="twitter:image" content="https://kaput.media/Images/Casa-Malaparte-800-beige.png">
 
   <link rel="canonical" href="https://kaput.media">
+  <meta name="theme-color" content="#B34A12">
   <link rel="icon" type="image/png" href="Images/Casa-Malaparte-360-beige.png">
 
   <!-- Preload hero image so browser prioritises it as LCP element -->
@@ -56,7 +57,7 @@
       --color-bg:     #F4F0E8; /* eggshell / warm off-white */
       --color-text:   #000000BF; /* rgba(0,0,0,0.75) in 8-digit hex */
       --color-link:   #B34A12;   /* darkened orange — passes WCAG AA 4.5:1 contrast */
-      --color-border: #00000026; /* rgba(0,0,0,0.15) — thin subtle rule */
+      --color-border: #B34A12;   /* burnt orange border */
     }
 
     /* ─── OVERSCROLL COLOR ───────────────────────────────────────────────────── */
@@ -136,11 +137,13 @@
 
     .byline a {
       color: var(--color-link);
-      text-decoration: none;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      transition: opacity 0.2s ease;
     }
 
     .byline a:hover {
-      text-decoration: underline;
+      opacity: 0.7;
     }
 
     /* ─── BODY COPY ──────────────────────────────────────────────────────────── */
@@ -170,6 +173,19 @@
 
     .hero-image img {
       animation: fadeSlideUp 1s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    /* ─── TEXT SELECTION ─────────────────────────────────────────────────────── */
+    ::selection {
+      background-color: #B34A12;
+      color: #F4F0E8;
+    }
+
+    /* ─── REDUCED MOTION ─────────────────────────────────────────────────────── */
+    @media (prefers-reduced-motion: reduce) {
+      .hero-image img {
+        animation: none;
+      }
     }
 
     /* ─── MOBILE ─────────────────────────────────────────────────────────────── */
