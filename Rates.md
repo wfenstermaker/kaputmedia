@@ -2,7 +2,7 @@
 
 Contact [info@kaput.media](mailto:info@kaput.media) for editing and writing services—especially regarding artists' statements and biographies, grant applications, press releases, website copy, in-gallery materials, marketing collateral, sponsored content and more.
 
-[︎ View Editorial Projects](https://www.willfenstermaker.com)
+[︎View Editorial Projects](https://www.willfenstermaker.com)
 
 ---
 
