@@ -130,24 +130,17 @@
 
     /* ─── SERVICES ───────────────────────────────────────────────────────────── */
     .services {
+      border-top: 1px dashed var(--color-border);
+      border-bottom: 1px dashed var(--color-border);
       margin-bottom: 3.5rem;
     }
 
     .service {
-      border-top: 1px dashed var(--color-border);
       padding: 1.75rem 0;
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 1rem 3rem;
       align-items: start;
-    }
-
-    .service:first-child {
-      border-top: none;
-    }
-
-    .service:last-child {
-      border-bottom: 1px dashed var(--color-border);
     }
 
     .service-name {
