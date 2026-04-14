@@ -50,12 +50,12 @@ Projects requiring fast turnarounds may be billed at higher rates. Generally "ru
 
 Estimates are subject to change. Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.
 
-I will retain copyright of all material published under my name, unless otherwise agreed in writing.
+The author will retain copyright of all bylined material, unless otherwise agreed in writing.
 
 ---
 
 ## Artist Assistance
 
-If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford my consultation fees, do not hesitate to reach out—we can make something work.
+If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.
 
 Please do not attempt to solicit reviews, profiles or other independent coverage.
