@@ -33,5 +33,6 @@ View [editorial rates](/rates) or reach out to info@kaput.media to learn more.
 ---
 
 > **Link notes**
-> - Will Fenstermaker links to willfenstermaker.com with UTM tracking — do not edit the link in this file.
+> - `Will Fenstermaker` in byline links to willfenstermaker.com with UTM tracking — do not edit the link in this file.
+> - `editorial rates` in body copy links to /rates.
 > - Email addresses are auto-converted to mailto: links on deploy.
