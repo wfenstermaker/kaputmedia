@@ -8,9 +8,15 @@ Contact [info@kaput.media](mailto:info@kaput.media) for editing and writing serv
 
 ## Services
 
+### Consulting
+
+Strategic guidance on creative projects, editorial direction and cultural positioning: developing concepts, advising on framing and audience, participation in meetings.
+
+$150+ per hour / 1 hour minimum
+
 ### Developmental Editing
 
-Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Brokering and consolidating multi-author texts. Requires consultation and work on early drafts.
+Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Brokering and consolidating multi-author texts. Requires consultation and work on drafts in progress.
 
 $150+ per hour / 2 hour minimum
 
@@ -31,12 +37,6 @@ $80+ per hour / 2 hour minimum
 Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.
 
 $50+ per hour / 2 hour minimum
-
-### Consulting
-
-Strategic guidance on creative projects, editorial direction and cultural positioning: developing concepts, advising on framing and audience, participation in corporate planning meetings.
-
-$150+ per hour / 1 hour minimum
 
 ---
 
