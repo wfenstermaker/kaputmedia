@@ -27,28 +27,28 @@ Creative and critical conceptualizing: interrogating and researching ideas, shap
 Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style. Generally requires trading manuscripts back and forth.
 
 **$115+ / hour**
-4 hour minimum
+3 hour minimum
 
 ### Copy Editing
 
 Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations. Work is often delivered via a single edited manuscript.
 
 **$80+ / hour**
-2 hour minimum
+4 hour minimum
 
 ### Reading & Assessment
 
-Evaluating an existing manuscript: reading closely for argument and structure, identifying strengths and gaps, and—where two or more drafts exist—mapping their divergence to chart the work ahead. Delivered as a written evaluation rather than an edited manuscript.
+Evaluating an existing manuscript: reading closely for argument and structure, identifying strengths and gaps and, where two or more drafts exist, mapping their divergence to chart the work ahead. Delivered as a written evaluation rather than an edited manuscript.
 
-**$55 / hour**
-2 hour minimum
+**$55+ / hour**
+5 hour minimum
 
 ### Proofreading
 
 Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.
 
-**$50 / hour**
-2 hour minimum
+**$50+ / hour**
+5 hour minimum
 
 ---
 
