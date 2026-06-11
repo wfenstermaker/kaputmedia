@@ -58,4 +58,4 @@ The author will retain copyright of all bylined material, unless otherwise agree
 
 If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.
 
-Please do not attempt to solicit reviews, profiles or other independent coverage.
+Critical journalism (reviews, profiles) is not available for commission.
