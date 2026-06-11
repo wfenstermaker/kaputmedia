@@ -10,7 +10,7 @@ Contact [info@kaput.media](mailto:info@kaput.media) for editing and writing serv
 
 ### Developmental Editing
 
-Creative and critical concepting: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Requires consultation and work on early drafts.
+Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Brokering and consolidating multi-author texts. Requires consultation and work on early drafts.
 
 $150+ per hour / 2 hour minimum
 
