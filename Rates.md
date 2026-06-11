@@ -1,6 +1,6 @@
 ## Intro
 
-Contact [info@kaput.media](mailto:info@kaput.media) for editing and writing services—especially regarding artists' statements and biographies, grant applications, press releases, website copy, in-gallery materials, marketing collateral, sponsored content and more.
+Contact [info@kaput.media](mailto:info@kaput.media) for editing and writing services—especially regarding books, artists' statements and biographies, grant applications, press releases, website copy, in-gallery materials, marketing collateral, sponsored content and more.
 
 [︎View Editorial Projects](https://www.willfenstermaker.com?utm_source=kaput&utm_medium=website&utm_campaign=kaput_rates)
 
@@ -19,7 +19,7 @@ Strategic guidance on creative projects, editorial direction and cultural positi
 
 Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Brokering and consolidating multi-author texts. Requires consultation and work on drafts in progress.
 
-**$150+ / hour**
+**$125+ / hour**
 2 hour minimum
 
 ### Content Editing
@@ -29,7 +29,7 @@ Editing on the level of ideas: crafting a thesis, strengthening and clarifying a
 **$115+ / hour**
 3 hour minimum
 
-### Copy Editing
+### Line Editing & Copy Editing
 
 Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations. Work is often delivered via a single edited manuscript.
 
@@ -38,17 +38,17 @@ Editing on the level of language: tightening prose, confirming cross-references,
 
 ### Reading & Assessment
 
-Evaluating an existing manuscript: reading closely for argument and structure, identifying strengths and gaps and, where two or more drafts exist, mapping their divergence to chart the work ahead. Delivered as a written evaluation rather than an edited manuscript.
+Evaluating an existing manuscript: reading closely for argument and structure, identifying strengths and gaps and, where two or more drafts exist, mapping their divergence to chart the work ahead. Delivered as a brief written assessment.
 
 **$55+ / hour**
-5 hour minimum
+2 hour minimum
 
 ### Proofreading
 
 Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.
 
 **$50+ / hour**
-5 hour minimum
+4 hour minimum
 
 ---
 
