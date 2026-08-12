@@ -81,7 +81,7 @@ Newsletters, campaign development, subject-line and A/B testing, audience segmen
 
 #### Retainers & Subscriptions
 
-Regular work is often better arranged monthly. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.
+Regular work is often better arranged monthly. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable: a newsletter, column or set number of pieces per month. Reach out to discuss an arrangement.
 
 **Bespoke**
 
@@ -103,4 +103,4 @@ The author retains copyright of all bylined material unless otherwise agreed in 
 
 ## Artist Assistance
 
-If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.
+If you are an artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.

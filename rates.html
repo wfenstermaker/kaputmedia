@@ -139,6 +139,11 @@
       border-top: 1px dashed var(--color-border);
       border-bottom: 1px dashed var(--color-border);
       margin-bottom: 3.5rem;
+      /* Between services, a blurb gets 1.75rem from its own row plus 1.75rem
+         from the next row's top padding. The last row has no next row, so the
+         container supplies the other half — otherwise the closing rule sits
+         at half the spacing every other blurb has below it. */
+      padding-bottom: 1.75rem;
     }
 
     .service-group-name {
@@ -560,7 +565,7 @@
   <!-- ARTIST ASSISTANCE — edit in Rates.md → ## Artist Assistance -->
   <div class="assist">
     <h2 class="assist-title">Artist Assistance</h2>
-    <p>If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.</p>
+    <p>If you are an artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.</p>
   </div>
 
   </div><!-- /.page -->
