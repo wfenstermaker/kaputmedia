@@ -20,11 +20,11 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rates — Kaput</title>
-  <meta name="description" content="Editorial rates for Kaput, an arts and media consultancy in Los Angeles. Services include developmental editing, content editing, copy editing, proofreading and consulting.">
+  <meta name="description" content="Editorial and writing rates for Kaput, an arts and media consultancy in Los Angeles. Services include feature and case-study writing, marketing copy, email campaigns, developmental and content editing, copy editing, proofreading and consulting.">
   <meta name="author" content="Will Fenstermaker">
 
   <meta property="og:title" content="Rates — Kaput">
-  <meta property="og:description" content="Editorial rates for writing and editing services from Kaput, founded by Will Fenstermaker.">
+  <meta property="og:description" content="Editorial and writing rates for Kaput, an arts and media consultancy in Los Angeles. Services include feature and case-study writing, marketing copy, email campaigns, developmental and content editing, copy editing, proofreading and consulting.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://kaput.media/rates">
   <meta property="og:image" content="https://kaput.media/Images/Casa-Malaparte-800-beige.png">
@@ -141,6 +141,21 @@
       margin-bottom: 3.5rem;
     }
 
+    .service-group-name {
+      font-family: 'Barlow', sans-serif;
+      font-weight: 800;
+      font-size: clamp(0.68rem, 0.95vw, 0.78rem);
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      opacity: 0.5;
+      margin: 0;
+      padding: 2.25rem 0 0.25rem;
+    }
+
+    .services > .service-group-name:first-child {
+      padding-top: 1.75rem;
+    }
+
     .service {
       padding: 1.75rem 0;
       display: grid;
@@ -162,6 +177,15 @@
       font-size: clamp(0.68rem, 1vw, 0.82rem);
       line-height: 1.6;
       color: var(--color-text);
+    }
+
+    .service-note {
+      grid-column: 1;
+      font-size: clamp(0.63rem, 0.9vw, 0.75rem);
+      line-height: 1.6;
+      font-style: italic;
+      color: var(--color-text);
+      opacity: 0.7;
     }
 
     .service-rate {
@@ -245,12 +269,20 @@
         font-size: 0.88rem;
       }
 
+      .service-group-name {
+        font-size: 0.72rem;
+      }
+
       .service-name {
         font-size: 1.05rem;
       }
 
       .service-desc {
         font-size: 0.88rem;
+      }
+
+      .service-note {
+        font-size: 0.82rem;
       }
 
       .service-price {
@@ -276,8 +308,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Editorial Services — Kaput",
-    "description": "Freelance editing services for artists and arts organizations, including consulting, developmental editing, content editing, copy editing, and proofreading. Specializing in artists' statements, biographies, grant applications, press releases, website copy, in-gallery materials, and sponsored content.",
+    "name": "Editorial and Writing Services — Kaput",
+    "description": "Freelance writing and editing services for artists, arts organizations and brands, including articles and case studies, marketing copy, email and campaign writing, consulting, developmental editing, content editing, line and copy editing, reading and research, and proofreading. Specializing in artists' statements, biographies, grant applications, press releases, website copy, in-gallery materials, marketing collateral and sponsored content.",
     "provider": {
       "@type": "Organization",
       "name": "Kaput",
@@ -288,7 +320,34 @@
         "url": "https://willfenstermaker.com"
       }
     },
-    "serviceType": "Editorial Services",
+    "serviceType": ["Editorial Services", "Writing Services", "Marketing Copywriting", "Editorial Consulting"],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Editorial and Writing Services",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "name": "Editorial",
+          "itemListElement": [
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Consulting" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Developmental Editing" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Content Editing" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Line Editing & Copy Editing" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reading & Research" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Proofreading" } }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Writing",
+          "itemListElement": [
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Articles & Case Studies" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Marketing Copy" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Email & Campaigns" } }
+          ]
+        }
+      ]
+    },
     "areaServed": "US",
     "url": "https://kaput.media/rates"
   }
@@ -309,10 +368,10 @@
 
   <!-- SERVICES — edit in Rates.md → ## Services -->
   <div class="services">
-
+    <h3 class="service-group-name">Editorial</h3>
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Consulting</h3>
+        <h4 class="service-name">Consulting</h4>
         <p class="service-desc">Strategic guidance on creative projects, editorial direction and cultural positioning: developing concepts, advising on framing and audience, participation in meetings.</p>
       </div>
       <div class="service-rate">
@@ -320,21 +379,19 @@
         <span class="service-minimum">1 hour minimum</span>
       </div>
     </div>
-
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Developmental Editing</h3>
-        <p class="service-desc">Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, reordering sections, suggesting rewrites as needed. Brokering and consolidating multi-author texts. Requires consultation and work on drafts in progress.</p>
+        <h4 class="service-name">Developmental Editing</h4>
+        <p class="service-desc">Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts. Requires consultation and work on drafts in progress.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$125+ / hr</span>
         <span class="service-minimum">2 hour minimum</span>
       </div>
     </div>
-
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Content Editing</h3>
+        <h4 class="service-name">Content Editing</h4>
         <p class="service-desc">Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style. Generally requires trading manuscripts back and forth.</p>
       </div>
       <div class="service-rate">
@@ -342,10 +399,9 @@
         <span class="service-minimum">3 hour minimum</span>
       </div>
     </div>
-
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Line Editing &amp; Copy Editing</h3>
+        <h4 class="service-name">Line Editing &amp; Copy Editing</h4>
         <p class="service-desc">Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations. Work is often delivered via a single edited manuscript.</p>
       </div>
       <div class="service-rate">
@@ -353,26 +409,56 @@
         <span class="service-minimum">4 hour minimum</span>
       </div>
     </div>
-
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Reading &amp; Assessment</h3>
-        <p class="service-desc">Evaluating an existing manuscript: reading closely for argument and structure, identifying strengths and gaps and, where two or more drafts exist, mapping their divergence to chart the work ahead. Delivered as a brief written assessment.</p>
+        <h4 class="service-name">Reading &amp; Research</h4>
+        <p class="service-desc">Evaluating and investigating existing material: reading closely for argument and structure, auditing content libraries, competitive and background research, fact-checking. Where two or more drafts exist, mapping their divergence to chart the work ahead.</p>
       </div>
       <div class="service-rate">
-        <span class="service-price">$55+ / hr</span>
+        <span class="service-price">$65+ / hr</span>
         <span class="service-minimum">2 hour minimum</span>
       </div>
     </div>
-
     <div class="service">
       <div class="service-left">
-        <h3 class="service-name">Proofreading</h3>
+        <h4 class="service-name">Proofreading</h4>
         <p class="service-desc">Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$50+ / hr</span>
         <span class="service-minimum">4 hour minimum</span>
+      </div>
+    </div>
+    <h3 class="service-group-name">Writing</h3>
+    <div class="service">
+      <div class="service-left">
+        <h4 class="service-name">Articles &amp; Case Studies</h4>
+        <p class="service-desc">Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes the reporting behind the work—interviews, background research and fact-checking—as well as limited client and legal approval cycles per project.</p>
+      </div>
+      <div class="service-rate">
+        <span class="service-price">$1.50+ / word</span>
+        <span class="service-minimum">600 word minimum</span>
+      </div>
+      <p class="service-note">Critical journalism (reviews, profiles) is not available for commission. Sponsored content must be clearly indicated.</p>
+    </div>
+    <div class="service">
+      <div class="service-left">
+        <h4 class="service-name">Marketing Copy</h4>
+        <p class="service-desc">Copy designed to sell or explain: messaging frameworks and press talking points, presentation and pitch decks, scripts and remarks for spoken delivery, sales collateral, landing pages and direct mail, in-gallery and in-app text.</p>
+      </div>
+      <div class="service-rate">
+        <span class="service-price">$175+ / hr</span>
+        <span class="service-minimum">2 hour minimum</span>
+      </div>
+    </div>
+    <div class="service">
+      <div class="service-left">
+        <h4 class="service-name">Email &amp; Campaigns</h4>
+        <p class="service-desc">Writing and strategy for email programs: campaign and sequence architecture, newsletters, subject-line and A/B testing, audience segmentation, program audits. Suited to ongoing work as well as one-off campaigns.</p>
+      </div>
+      <div class="service-rate">
+        <span class="service-price">$175+ / hr</span>
+        <span class="service-minimum">2 hour minimum</span>
       </div>
     </div>
 
@@ -381,18 +467,18 @@
   <!-- TERMS — edit in Rates.md → ## Terms -->
   <div class="terms">
     <h2 class="terms-title">Terms</h2>
-    <p>Minimum rates are set according to annual guidelines published by the Editorial Freelancers Association. For estimates, 1 hour of work will equal approximately 500 words of text for editing, 1,000 words for proofreading or 1,250 words for reading and assessment.</p>
+    <p>Minimum rates for editorial services are set according to annual guidelines published by the Editorial Freelancers Association. Strategy, writing and marketing rates reflect current market rates for senior specialists in regulated and luxury-sector work. For example, estimates will assume 1 hour of work equals approximately 500 words of text for editing, 1,000 words for proofreading or 1,250 words for reading and research.</p>
     <p>Work begins only after we have agreed in writing on an estimated project rate and all necessary assets have been received.</p>
+    <p>Estimates for marketing and collateral work assume two rounds of client revision. Additional rounds, including review cycles required by legal or compliance, are billed hourly.</p>
     <p>Projects requiring fast turnarounds may be billed at higher rates. Generally "rush fees" apply to deadlines within two weeks of beginning a project, but ultimately they depend on the amount of labor, timeframe, general availability and timely receipt of assets.</p>
-    <p>Estimates are subject to change. Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.</p>
-    <p>The author will retain copyright of all bylined material, unless otherwise agreed in writing.</p>
+    <p>Estimates do not reflect final billable hours. Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.</p>
+    <p>The author retains copyright of all bylined material unless otherwise agreed in writing.</p>
   </div>
 
   <!-- ARTIST ASSISTANCE — edit in Rates.md → ## Artist Assistance -->
   <div class="assist">
     <h2 class="assist-title">Artist Assistance</h2>
     <p>If you are an emerging artist looking for advice crafting a statement, funding application, etc., but feel you cannot afford these consultation fees, do not hesitate to reach out—we can make something work.</p>
-    <p>Critical journalism (reviews, profiles) is not available for commission.</p>
   </div>
 
   </div><!-- /.page -->
