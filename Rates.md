@@ -77,13 +77,21 @@ Writing and strategy for email programs: campaign and sequence architecture, new
 **$175+ / hour**
 2 hour minimum
 
+## Continuous Engagements
+
+#### Retainers & Subscriptions
+
+Regular work is often better arranged monthly than by the hour. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.
+
+**Bespoke**
+
 ---
+
 ## Terms
 
 Minimum rates for editorial services are set according to annual guidelines published by the Editorial Freelancers Association. Strategy, writing and marketing rates reflect current market rates for senior specialists in regulated and luxury-sector work. For example, estimates will assume 1 hour of work equals approximately 500 words of text for editing, 1,000 words for proofreading or 1,250 words for reading and research.
 
 Work begins only after we have agreed in writing on an estimated project rate and all necessary assets have been received.
-
 
 Projects requiring fast turnarounds may be billed at higher rates. Generally "rush fees" apply to deadlines within two weeks of beginning a project, but ultimately they depend on the amount of labor, timeframe, general availability and timely receipt of assets.
 
