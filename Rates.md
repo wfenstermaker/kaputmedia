@@ -84,11 +84,12 @@ Minimum rates for editorial services are set according to annual guidelines publ
 
 Work begins only after we have agreed in writing on an estimated project rate and all necessary assets have been received.
 
-Estimates for marketing and collateral work assume two rounds of client revision. Additional rounds, including review cycles required by legal or compliance, are billed hourly.
 
 Projects requiring fast turnarounds may be billed at higher rates. Generally "rush fees" apply to deadlines within two weeks of beginning a project, but ultimately they depend on the amount of labor, timeframe, general availability and timely receipt of assets.
 
-Estimates do not reflect final billable hours. Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.
+Estimates do not reflect final billable hours. Deliverables include two rounds of client revision. Additional rounds, including review cycles required by legal or compliance, are billed hourly.
+
+Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.
 
 The author retains copyright of all bylined material unless otherwise agreed in writing.
 
