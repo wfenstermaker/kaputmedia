@@ -17,7 +17,7 @@ Strategic guidance on creative projects, editorial direction and cultural positi
 **$150+ / hour**
 1 hour minimum
 
-#### Content & Developmental Editing
+#### Developmental & Content Editing
 
 Editing on the level of ideas: interrogating and researching arguments, crafting a thesis, shaping narrative and architecting prose, developing a rhetorical style, suggesting rewrites as needed. 
 
@@ -40,7 +40,7 @@ Evaluating and investigating existing material: reading closely for argument and
 
 #### Proofreading
 
-Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style.
+Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.
 
 **$50+ / hour**
 4 hour minimum
@@ -49,7 +49,7 @@ Preparing edited texts for publication: safeguarding against errors, fixing typo
 
 #### Articles & Case Studies
 
-Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes research and reporting. Billed at the higher of: commissioned target or published final.
+Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes research and reporting.
 
 **$1.50+ / word**
 600 word minimum
@@ -83,7 +83,7 @@ Newsletters, campaign development, subject-line and A/B testing, audience segmen
 
 #### Retainers & Subscriptions
 
-Regular work is often better arranged monthly. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable: a newsletter, column or set number of pieces per month. Reach out to discuss an arrangement.
+Monthly arrangements are available for regular clients. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable: a newsletter, column or set number of pieces per month. Reach out to discuss.
 
 **Bespoke**
 
@@ -91,15 +91,15 @@ Regular work is often better arranged monthly. Retainers reserve a fixed allocat
 
 ## Terms
 
-Minimum rates for editorial services are set according to annual guidelines published by the Editorial Freelancers Association. Strategy, writing and marketing rates reflect current market rates for senior specialists in regulated and luxury-sector work. For example, estimates will assume 1 hour of work equals approximately 500 words of text for editing, 1,000 words for proofreading or 1,250 words for reading and research.
+Minimum rates for editorial services are set according to annual guidelines published by the Editorial Freelancers Association and other professional organizations. Strategy, writing and marketing rates reflect current market rates for senior specialists in regulated and arts- and luxury-sector work. For example, estimates will assume 1 hour of work equals approximately 500 words of text for editing, 1,000 words for proofreading or 1,250 words for reading and research. Estimates may differ from final billable hours.
 
-Work begins only after we have agreed in writing on an estimated project rate and all necessary assets have been received.
+Deliverables include two rounds of client revision. Additional rounds, including review cycles required by legal or compliance, are billed hourly. Per-word work is billed at the commissioned target plus any additions the client requests. For example, a 1,000-word article extended by 150 words during review is billed at 1,150.
 
 Projects requiring fast turnarounds may be billed at higher rates. Generally "rush fees" apply to deadlines within two weeks of beginning a project, but ultimately they depend on the amount of labor, timeframe, general availability and timely receipt of assets.
 
-Estimates do not reflect final billable hours. Deliverables include two rounds of client revision. Additional rounds, including review cycles required by legal or compliance, are billed hourly.
+Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour.
 
-Client will be notified if and when final project costs are expected to grow more than 25% of the initial estimate. Final invoices are prorated per half hour. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.
+Work begins only after we have agreed in writing on an estimated project rate and all necessary assets have been received. Payment is required within 30 days to comply with California and New York independent-contractor regulations. After 30 days a 10% weekly late fee will be assessed.
 
 The author retains copyright of all bylined material unless otherwise agreed in writing.
 
