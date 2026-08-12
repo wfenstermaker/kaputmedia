@@ -208,15 +208,8 @@
       opacity: 0.7;
     }
 
-    /* ─── CONTINUOUS ENGAGEMENTS ─────────────────────────────────────────────── */
-    .engagements {
-      border-bottom: 1px dashed var(--color-border);
-      margin-bottom: 3.5rem;
-      padding-bottom: 0.5rem;
-    }
-
     /* ─── TERMS ──────────────────────────────────────────────────────────────── */
-    .terms-title, .assist-title, .engagements-title {
+    .terms-title, .assist-title {
       font-family: 'Barlow', sans-serif;
       font-weight: 800;
       font-size: clamp(0.95rem, 1.6vw, 1.25rem);
@@ -301,8 +294,7 @@
       }
 
       .terms-title,
-      .assist-title,
-      .engagements-title {
+      .assist-title {
         font-size: 1.05rem;
       }
 
@@ -328,7 +320,12 @@
         "url": "https://willfenstermaker.com"
       }
     },
-    "serviceType": ["Editorial Services", "Writing Services", "Marketing Copywriting", "Editorial Consulting"],
+    "serviceType": [
+      "Editorial Services",
+      "Writing Services",
+      "Marketing Copywriting",
+      "Editorial Consulting"
+    ],
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
       "name": "Editorial and Writing Services",
@@ -337,21 +334,88 @@
           "@type": "OfferCatalog",
           "name": "Editorial",
           "itemListElement": [
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Consulting" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Developmental Editing" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Content Editing" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Line Editing & Copy Editing" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reading & Research" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Proofreading" } }
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Consulting"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Developmental Editing"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Content Editing"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Line Editing & Copy Editing"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Reading & Research"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Proofreading"
+              }
+            }
           ]
         },
         {
           "@type": "OfferCatalog",
           "name": "Writing",
           "itemListElement": [
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Articles & Case Studies" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Marketing Copy" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Email & Campaigns" } }
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Articles & Case Studies"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Marketing & Copy Writing"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Email & Campaigns"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Continuous Engagements",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Retainers & Subscriptions"
+              }
+            }
           ]
         }
       ]
@@ -390,7 +454,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Developmental Editing</h4>
-        <p class="service-desc">Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts. Requires consultation and work on drafts in progress.</p>
+        <p class="service-desc">Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$125+ / hr</span>
@@ -400,7 +464,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Content Editing</h4>
-        <p class="service-desc">Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style. Generally requires trading manuscripts back and forth.</p>
+        <p class="service-desc">Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$115+ / hr</span>
@@ -410,7 +474,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Line Editing &amp; Copy Editing</h4>
-        <p class="service-desc">Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations. Work is often delivered via a single edited manuscript.</p>
+        <p class="service-desc">Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$80+ / hr</span>
@@ -420,7 +484,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Reading &amp; Research</h4>
-        <p class="service-desc">Evaluating and investigating existing material: reading closely for argument and structure, auditing content libraries, competitive and background research, fact-checking. Where two or more drafts exist, mapping their divergence to chart the work ahead.</p>
+        <p class="service-desc">Evaluating and investigating existing material: reading closely for argument and structure, auditing manuscripts and content libraries, competitive and background research, fact-checking.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$65+ / hr</span>
@@ -430,7 +494,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Proofreading</h4>
-        <p class="service-desc">Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.</p>
+        <p class="service-desc">Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$50+ / hr</span>
@@ -441,7 +505,7 @@
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Articles &amp; Case Studies</h4>
-        <p class="service-desc">Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes the reporting behind the work—interviews, background research and fact-checking—as well as limited client and legal approval cycles per project.</p>
+        <p class="service-desc">Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes research and reporting. Billed at the higher of: commissioned target or published final.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">$1.50+ / word</span>
@@ -451,40 +515,35 @@
     </div>
     <div class="service">
       <div class="service-left">
-        <h4 class="service-name">Marketing Copy</h4>
-        <p class="service-desc">Copy designed to sell or explain: messaging frameworks and press talking points, presentation and pitch decks, scripts and remarks for spoken delivery, sales collateral, landing pages and direct mail, in-gallery and in-app text.</p>
+        <h4 class="service-name">Marketing &amp; Copy Writing</h4>
+        <p class="service-desc">Messaging frameworks and press talking points, presentation and pitch decks, scripts and remarks for spoken delivery, sales collateral, landing pages and direct mail, in-gallery and in-app text.</p>
       </div>
       <div class="service-rate">
-        <span class="service-price">$175+ / hr</span>
+        <span class="service-price">$150+ / hr</span>
         <span class="service-minimum">2 hour minimum</span>
       </div>
     </div>
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Email &amp; Campaigns</h4>
-        <p class="service-desc">Writing and strategy for email programs: campaign and sequence architecture, newsletters, subject-line and A/B testing, audience segmentation, program audits. Suited to ongoing work as well as one-off campaigns.</p>
+        <p class="service-desc">Newsletters, campaign development, subject-line and A/B testing, audience segmentation, program audits.</p>
       </div>
       <div class="service-rate">
-        <span class="service-price">$175+ / hr</span>
+        <span class="service-price">$125+ / hr</span>
         <span class="service-minimum">2 hour minimum</span>
       </div>
     </div>
-
-  </div>
-
-  <!-- CONTINUOUS ENGAGEMENTS — edit in Rates.md → ## Continuous Engagements -->
-  <div class="engagements">
-    <h2 class="engagements-title">Continuous Engagements</h2>
+    <h3 class="service-group-name">Continuous Engagements</h3>
     <div class="service">
       <div class="service-left">
         <h4 class="service-name">Retainers &amp; Subscriptions</h4>
-        <p class="service-desc">Regular work is often better arranged monthly than by the hour. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.</p>
+        <p class="service-desc">Regular work is often better arranged monthly. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.</p>
       </div>
       <div class="service-rate">
         <span class="service-price">Bespoke</span>
       </div>
     </div>
-  
+
   </div>
 
   <!-- TERMS — edit in Rates.md → ## Terms -->

@@ -19,35 +19,35 @@ Strategic guidance on creative projects, editorial direction and cultural positi
 
 #### Developmental Editing
 
-Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts. Requires consultation and work on drafts in progress.
+Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts.
 
 **$125+ / hour**
 2 hour minimum
 
 #### Content Editing
 
-Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style. Generally requires trading manuscripts back and forth.
+Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style.
 
 **$115+ / hour**
 3 hour minimum
 
 #### Line Editing & Copy Editing
 
-Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations. Work is often delivered via a single edited manuscript.
+Editing on the level of language: tightening prose, confirming cross-references, checking spelling and grammar, ensuring proper citations.
 
 **$80+ / hour**
 4 hour minimum
 
 #### Reading & Research
 
-Evaluating and investigating existing material: reading closely for argument and structure, auditing content libraries, competitive and background research, fact-checking. Where two or more drafts exist, mapping their divergence to chart the work ahead.
+Evaluating and investigating existing material: reading closely for argument and structure, auditing manuscripts and content libraries, competitive and background research, fact-checking.
 
 **$65+ / hour**
 2 hour minimum
 
 #### Proofreading
 
-Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style. Client must provide page proof such as a galley or layout.
+Preparing edited texts for publication: safeguarding against errors, fixing typos, standardizing formatting, ensuring consistency in language and style.
 
 **$50+ / hour**
 4 hour minimum
@@ -56,32 +56,32 @@ Preparing edited texts for publication: safeguarding against errors, fixing typo
 
 #### Articles & Case Studies
 
-Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes the reporting behind the work—interviews, background research and fact-checking—as well as limited client and legal approval cycles per project.
+Original reported prose written to a brief: articles and essays, thought leadership, case studies and client testimonials. Includes research and reporting. Billed at the higher of: commissioned target or published final.
 
 **$1.50+ / word**
 600 word minimum
 
 *Critical journalism (reviews, profiles) is not available for commission. Sponsored content must be clearly indicated.*
 
-#### Marketing Copy
+#### Marketing & Copy Writing
 
-Copy designed to sell or explain: messaging frameworks and press talking points, presentation and pitch decks, scripts and remarks for spoken delivery, sales collateral, landing pages and direct mail, in-gallery and in-app text.
+Messaging frameworks and press talking points, presentation and pitch decks, scripts and remarks for spoken delivery, sales collateral, landing pages and direct mail, in-gallery and in-app text.
 
-**$175+ / hour**
+**$150+ / hour**
 2 hour minimum
 
 #### Email & Campaigns
 
-Writing and strategy for email programs: campaign and sequence architecture, newsletters, subject-line and A/B testing, audience segmentation, program audits. Suited to ongoing work as well as one-off campaigns.
+Newsletters, campaign development, subject-line and A/B testing, audience segmentation, program audits.
 
-**$175+ / hour**
+**$125+ / hour**
 2 hour minimum
 
-## Continuous Engagements
+### Continuous Engagements
 
 #### Retainers & Subscriptions
 
-Regular work is often better arranged monthly than by the hour. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.
+Regular work is often better arranged monthly. Retainers reserve a fixed allocation of time across services. Subscriptions cover a recurring deliverable—a newsletter, a column, a set number of pieces per month. Reach out to discuss an arrangement.
 
 **Bespoke**
 
