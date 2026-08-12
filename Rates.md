@@ -17,19 +17,12 @@ Strategic guidance on creative projects, editorial direction and cultural positi
 **$150+ / hour**
 1 hour minimum
 
-#### Developmental Editing
+#### Content & Developmental Editing
 
-Creative and critical conceptualizing: interrogating and researching ideas, shaping narrative, architecting prose, suggesting rewrites as needed. Brokering and consolidating multiauthor texts.
+Editing on the level of ideas: interrogating and researching arguments, crafting a thesis, shaping narrative and architecting prose, developing a rhetorical style, suggesting rewrites as needed. 
 
 **$125+ / hour**
 2 hour minimum
-
-#### Content Editing
-
-Editing on the level of ideas: crafting a thesis, strengthening and clarifying arguments, developing a rhetorical style.
-
-**$115+ / hour**
-3 hour minimum
 
 #### Line Editing & Copy Editing
 
@@ -62,6 +55,15 @@ Original reported prose written to a brief: articles and essays, thought leaders
 600 word minimum
 
 *Critical journalism (reviews, profiles) is not available for commission. Sponsored content must be clearly indicated.*
+
+#### Grant Writing & Applications
+
+Narrative and project descriptions, artist and organizational statements, work plans and budget justifications, funder research and eligibility review, tailoring one project across multiple applications.
+
+**$150+ / hour**
+4 hour minimum
+
+*Success-based or percentage-of-award compensation is prohibited by professional organizations.*
 
 #### Marketing & Copy Writing
 
