@@ -1,0 +1,12 @@
+*.md
+wrangler.jsonc
+worker.js
+.assetsignore
+.gitignore
+CNAME
+.github
+.obsidian
+.claude
+.playwright-mcp
+.wrangler
+node_modules
