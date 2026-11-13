@@ -43,23 +43,41 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    "name": "Kaput",
-    "description": "Arts and media consultancy in Los Angeles offering editorial and publishing services to artists, galleries, museums, cultural organizations and luxury brands.",
-    "url": "https://kaput.media",
-    "email": "info@kaput.media",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Los Angeles",
-      "addressRegion": "CA",
-      "addressCountry": "US"
-    },
-    "founder": {
-      "@type": "Person",
-      "name": "Will Fenstermaker",
-      "url": "https://www.willfenstermaker.com"
-    },
-    "knowsAbout": ["arts consulting", "editorial services", "cultural criticism", "art writing", "publishing"]
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://kaput.media/#website",
+        "url": "https://kaput.media/",
+        "name": "Kaput",
+        "alternateName": ["Kaput Media", "kaput.media"],
+        "publisher": { "@id": "https://kaput.media/#organization" }
+      },
+      {
+        "@type": "ProfessionalService",
+        "@id": "https://kaput.media/#organization",
+        "name": "Kaput",
+        "alternateName": "Kaput Media",
+        "description": "Arts and media consultancy in Los Angeles offering editorial and publishing services to artists, galleries, museums, cultural organizations and luxury brands.",
+        "url": "https://kaput.media/",
+        "logo": "https://kaput.media/Images/Casa-Malaparte-800-beige.png",
+        "image": "https://kaput.media/Images/Casa-Malaparte-800-beige.png",
+        "email": "info@kaput.media",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles",
+          "addressRegion": "CA",
+          "addressCountry": "US"
+        },
+        "areaServed": "Worldwide",
+        "founder": {
+          "@type": "Person",
+          "@id": "https://willfenstermaker.com/#person",
+          "name": "Will Fenstermaker",
+          "url": "https://willfenstermaker.com/"
+        },
+        "knowsAbout": ["arts consulting", "editorial services", "cultural criticism", "art writing", "publishing"]
+      }
+    ]
   }
   </script>
   <meta name="theme-color" content="#B34A12">

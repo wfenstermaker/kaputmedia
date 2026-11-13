@@ -312,19 +312,23 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "@id": "https://kaput.media/#organization",
+    "name": "Kaput",
+    "url": "https://kaput.media/",
+    "logo": "https://kaput.media/Images/Casa-Malaparte-800-beige.png"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
     "@type": "Service",
     "name": "Editorial and Writing Services — Kaput",
     "description": "Freelance writing and editing services for artists, arts organizations and brands, including articles and case studies, grant writing and applications, marketing copy, email and campaign writing, consulting, content and developmental editing, line and copy editing, reading and research, and proofreading. Specializing in artists' statements, biographies, grant applications, press releases, website copy, in-gallery materials, marketing collateral and sponsored content.",
-    "provider": {
-      "@type": "Organization",
-      "name": "Kaput",
-      "url": "https://kaput.media",
-      "founder": {
-        "@type": "Person",
-        "name": "Will Fenstermaker",
-        "url": "https://willfenstermaker.com"
-      }
-    },
+    "@id": "https://kaput.media/rates#services",
+    "url": "https://kaput.media/rates",
+    "provider": { "@id": "https://kaput.media/#organization" },
+    "areaServed": "Worldwide",
     "serviceType": [
       "Editorial Services",
       "Writing Services",
